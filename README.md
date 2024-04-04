@@ -7,8 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/krishjana330" target="blank"><img src="https://img.shields.io/twitter/follow/krishjana330?logo=twitter&style=for-the-badge" alt="krishjana330" /></a> </p>
 
-- Student at BrainwareUniversity [398, Ramkrishnapur Rd, near Jagadighata Market, Barasat, Kolkata, West Bengal 700125](398, Ramkrishnapur Rd, near Jagadighata Market, Barasat, Kolkata, West Bengal 700125)
-
 - 📫 How to reach me **krishjana702@gmail.com**
 
 - ⚡ Fun fact **I think I,m All Rounder**
@@ -19,8 +17,8 @@
 <a href="https://linkedin.com/in/krish(krish kumar jana)jana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krish(krish kumar jana)jana" height="30" width="40" /></a>
 <a href="https://fb.com/krish jana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="krish jana" height="30" width="40" /></a>
 <a href="https://instagram.com/krish__offline_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="krish__offline_" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/sound less gaming..." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sound less gaming..." height="30" width="40" /></a>
-<a href="https://discord.gg/krishjana330" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="krishjana330" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucokyn_qnen2zp0ac8pd1kkg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucokyn_qnen2zp0ac8pd1kkg" height="30" width="40" /></a>
+<a href="https://discord.gg/krish330" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="krish330" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

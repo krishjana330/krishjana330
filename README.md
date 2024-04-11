@@ -1,5 +1,6 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
-<h1 align="center">Hi 👋, I'm Krish Krish Kumar Jana</h1>
+<h1 align="center">Hi 👋, I'm Krish Jana 330</h1>
+<h1 align="center">Krish Kumar Jana</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishjana330&label=Profile%20views&color=0e75b6&style=flat" alt="krishjana330" /> </p>
 </div><h3 align="left">Connect with me:</h3>
 <p align="left">

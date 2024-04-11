@@ -80,7 +80,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=https://www.linkedin.com/posts/krish-jana-05bba126b_gojosatoru-jujitsu-sukuna-activity-7134362101690601473-rSKT?utm_source=share&utm_medium=member_desktop&username=krishjana330&theme=dark" alt="Layout with last medium posts"  />
+  <img https://www.linkedin.com/feed/update/urn:li:activity:7134362101690601473/  />
 </div>
 
 ###

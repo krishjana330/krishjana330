@@ -2,6 +2,9 @@
 <h1 align="center">Hi 👋, I'm Krish Jana 330</h1>
 <h1 align="center">Krish Kumar Jana</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishjana330&label=Profile%20views&color=0e75b6&style=flat" alt="krishjana330" /> </p>
+
+👨‍💻 All of my projects are available at [KRISH JANA 330](https://krishjana330.netlify.app)
+
 </div><h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/krishjana330" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" alt="krishjana330" height="30" width="40" /></a><a href="https://linkedin.com/in/krishjana330" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="krishjana330" height="30" width="40" /></a><a href="https://www.youtube.com/c/Krish Jana 330" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/youtube.svg" alt="Krish Jana 330" height="30" width="40" /></a><a href="https://discord.gg/krish330" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/discord.svg" alt="krish330" height="30" width="40" /></a><a href="https://instagram.com/krish__offline_" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="krish__offline_" height="30" width="40" /></a></p>
